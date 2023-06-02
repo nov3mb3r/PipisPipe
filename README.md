@@ -38,4 +38,3 @@ Replace <path_to_memory_dump> with the path to your memory dump file, and <list_
 
 ## Licence
 This project is licensed under the MIT License.
-The Pipis Pipa Team
